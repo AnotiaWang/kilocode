@@ -1,5 +1,11 @@
 # kilo-code
 
+## 4.137.1
+
+### Patch Changes
+
+- [#4456](https://github.com/Kilo-Org/kilocode/pull/4456) [`85a2e31`](https://github.com/Kilo-Org/kilocode/commit/85a2e31a331157f27bfe1c9823e3326ae58779c6) Thanks [@iscekic](https://github.com/iscekic)! - correctly handle deleted tasks
+
 ## 4.137.0
 
 ### Minor Changes
